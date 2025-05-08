@@ -1,4 +1,4 @@
-![Screenshot_20250508_133638.jpg](evasionsniper/Screenshot_20250508_133638.jpg)
+![Screenshot_20250508_133638.jpg](/Screenshot_20250508_133638.jpg)
 # EvasionSniper
 
 **Brutal SQLi Payload Sniper with WAF Bypass**  
