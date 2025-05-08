@@ -16,9 +16,5 @@ git clone https://github.com/0x6ick/EvasionSniper.git
 cd EvasionSniper
 pip install -r requirements.txt
 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 **⚠️ Disclaimer:** This tool is for educational and authorized penetration testing only.  
 Misuse for illegal activities is strictly prohibited.
