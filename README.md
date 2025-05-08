@@ -12,7 +12,7 @@ By 0x6ick
 
 ## Instalasi
 ```bash
-git clone https://github.com/0x6ick/EvasionSniper.git
+git clone https://github.com/6ickzone/EvasionSniper.git
 cd EvasionSniper
 pip install -r requirements.txt
 
