@@ -1,4 +1,3 @@
-![Screenshot_20250508_133638.jpg](/Screenshot_20250508_133638.jpg)
 # EvasionSniper
 
 **Brutal SQLi Payload Sniper with WAF Bypass**  
@@ -16,3 +15,10 @@ By 0x6ick
 git clone https://github.com/0x6ick/EvasionSniper.git
 cd EvasionSniper
 pip install -r requirements.txt
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**⚠️ Disclaimer:** This tool is for educational and authorized penetration testing only.  
+Misuse for illegal activities is strictly prohibited.
