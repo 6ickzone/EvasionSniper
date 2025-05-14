@@ -1,41 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>EvasionSniper | By 0x6ick</title>
-  <style>
-    body {
-      background: #0f0f0f;
-      color: #e0e0e0;
-      font-family: 'Courier New', monospace;
-      padding: 2rem;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #00ff99;
-    }
-    code, pre {
-      background: #1e1e1e;
-      padding: 0.5rem;
-      border-radius: 4px;
-      display: block;
-      white-space: pre-wrap;
-    }
-    a {
-      color: #00ffff;
-      text-decoration: none;
-    }
-    img {
-      max-width: 100%;
-      border: 1px solid #333;
-    }
-    blockquote {
-      border-left: 4px solid #00ff99;
-      padding-left: 1rem;
-      color: #cccccc;
-    }
-  </style>
+EvasionSniper | By 0x6ick
+    
 </head>
 <body>
 
